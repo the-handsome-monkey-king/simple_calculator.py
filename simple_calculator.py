@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-"""calculator.py
+"""simple_calculator.py
 
 A working calculator environment."""
 
